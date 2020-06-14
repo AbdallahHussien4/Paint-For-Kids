@@ -1,5 +1,10 @@
 # Paint-For-Kids
 
+[![GitHub contributors](https://img.shields.io/github/contributors/Nihal-Mansour/Paint-For-Kids)](https://github.com/Nihal-Mansour/Paint-For-Kids/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/Nihal-Mansour/Paint-For-Kids)](https://github.com/Nihal-Mansour/Paint-For-Kids/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Nihal-Mansour/Paint-For-Kids)](https://github.com/Nihal-Mansour/Paint-For-Kids/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Nihal-Mansour/Paint-For-Kids)](https://github.com/Nihal-Mansour/Paint-For-Kids/stargazers)
+
 Paint for kids is a game for children, that aims to teach children how to draw some shapes like rectangle, triangle , line , rhombus and ellipse, also these shapes can be colored by choosing one of the coloring icons, color borders only or color the whole shape.
 
 <img src="images/screenshot1.PNG">
