@@ -1,0 +1,17 @@
+#pragma once
+#include "Actions/Action.h"
+#include "Figures/Ellipse.h"
+#include "Figures/CRectangle.h"
+#include "Figures/Line.h"
+#include "Figures/Rhombus.h"
+#include "Figures/Triangle.h"
+class PickByColor:public Action
+{
+	Point P;
+public:
+	PickByColor(ApplicationManager * pApp);
+	virtual void ReadActionParameters() {};
+	virtual void Execute();
+	~PickByColor() {};
+};
+
